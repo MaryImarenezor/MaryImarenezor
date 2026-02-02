@@ -1,12 +1,9 @@
-![new banner](https://github.com/MaryImarenezor/MaryImarenezor/assets/141180510/36e0cd06-15a2-4c6b-9c0f-96ad00bd31cb)
+![new banner](banner.png)
 
 
 
-- 👋 Hi, I’m @MaryImarenezor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+KEY PROJECTS:
+- 
 
 <!---
 MaryImarenezor/MaryImarenezor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
