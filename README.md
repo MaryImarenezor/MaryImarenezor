@@ -8,7 +8,7 @@ KEY PROJECTS:
 - Women in Computer Science (WICS) Website - Frontend Developer (2025)
 
 OTHER PROJECTS:
-- LeetCode Problems (2025)
+- [LeetCode Problems (2025)](https://github.com/MaryImarenezor/leet-code-problems)
 - "Rate-A-Restaurant" Milestone 3 Final Project - Frontend Developer, UI/UX Designer (2024)
 - "Google Replica Site" CSS Final - HTML/CSS Experimentation Project (2023)
 - Books API - MongoDB Experimentation Project (2023)
