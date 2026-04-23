@@ -3,6 +3,7 @@
 
 
 KEY PROJECTS:
+- ["The Machine" UIC Sparkhacks Visual Novel Project (2026)](https://github.com/Valeriuhhh/SparkHacks-2026-VN)
 - [AcnEmpathize Web GUI - Fullstack Developer, UI/UX Designer (2025-Present)](https://github.com/MaryImarenezor/AcnEmpathize_GUI)
 - [Happy Enterprises E-Commerce Store - Fullstack Developer, UI/UX Designer (2025-Present)](https://github.com/MaryImarenezor/happy-enterprises-site)
 - [Women in Computer Science (WICS) Website - Frontend Developer (2025)](https://github.com/wics-uic/WiCS-Website)
